@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://tanujpareek-94.github.io/tech-portfolio/sitemap.xml
